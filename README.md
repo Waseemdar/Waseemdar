@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Waseem Ahmad Dar  
+# 💫 Hi 👋, I'm Waseem Dar  
 **Data Analytics Enthusiast | Power BI Developer | MEAL Coordinator | Consultant- Govt & Public Sector Advisory**  
 
 [![](https://visitcount.itsvg.in/api?id=waseemdar&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)  
