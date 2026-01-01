@@ -60,8 +60,38 @@ Passionate about **bridging the gap between data insights and policy action**, I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemdar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Live Dashboard
-View the interactive HR Analytics Dashboard here:  
-🔗 https://app.powerbi.com/view?r=eyJrIjoiOTZlMmIxZTItOGUzOS00OWQ1LTgxZTYtYTVjMWMzMWEwZmNlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
+## 📊 Power BI Dashboard Portfolio
+
+Below are selected Power BI dashboards showcasing my work across public policy, skill development, healthcare, finance, HR, and business analytics.
+
+### 🔹 Government & Skill Development Dashboards
+- **PMKVY Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiNmFmYzQ2MWItNzQxZS00MDYyLTk3ODktY2Y2Yjg3ZjU3NTBlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
+
+- **PM Vishwakarma Dashboard (NSDC)**  
+  https://app.powerbi.com/view?r=eyJrIjoiMTg3OGE0ZmYtNjliOC00ZTVlLWI5NjgtZTJhNmM0YjFkNWNkIiwidCI6IjcyNGI4ZWQxLTgxODMtNGNiOS1iNWIwLTFlZDY3YWZlYWNmMSIsImMiOjEwfQ%3D%3D
+
+- **PM Vishwakarma Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiZWU4ZGU0NzItYzY1MC00YTE4LWIxODctYzM1OWI1NGM3ZTU2IiwidCI6ImZhNGZlYjhkLTNkNDItNDU4My1iNTRjLTMyYjQwNzYzMDI0NSJ9
+
+### 🔹 Business & Sales Analytics
+- **Coffee Shop Sales Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiOTNhMzhkM2ItODUxNy00YjYzLTgxOTMtMTM5MTI0ODljZmIxIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
+
+- **Hotel Management Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiYTU5MzQ2ODQtYzlkYS00MTI2LTk1NzYtMGIxNmQ0Nzc3NGFhIiwidCI6ImZhNGZlYjhkLTNkNDItNDU4My1iNTRjLTMyYjQwNzYzMDI0NSJ9
+
+### 🔹 Social Sector & Operations Analytics
+- **Healthcare Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiZWQ3NWE4MTctNGEzOC00ZDZhLTljN2YtMDU2NTQ2MjNhMzJlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
+
+- **HR Analytics Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiOTZlMmIxZTItOGUzOS00OWQ1LTgxZTYtYTVjMWMzMWEwZmNlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
+
+### 🔹 Finance & Grievance Analytics
+- **Financial Complaints Dashboard**  
+  https://app.powerbi.com/view?r=eyJrIjoiNzgyMDk1M2QtZTJjOC00OTk0LTg0NTEtNTkzYzA1NzE1NDBjIiwidCI6ImZhNGZlYjhkLTNkNDItNDU4My1iNTRjLTMyYjQwNzYzMDI0NSJ9
+
 
 
 ## 🏆 GitHub Trophies
