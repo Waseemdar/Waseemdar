@@ -12,7 +12,7 @@ My portfolio includes **state-level leadership** and **strategic monitoring** of
 - **MPLADS**  
 - National socio-economic surveys under **MoSPI**, **NABARD**, and the **Labour Bureau** , Government of India
 
-I have collaborated extensively with **central ministries, state departments, public sector undertakings, and multilateral organizations**, ensuring seamless **policy execution** and **district-level compliance**.  
+I have collaborated extensively with **central ministries, state departments, public sector undertakings, and multilateral organizations**, ensuring seamless **policy execution** and **State-level compliance**.  
 
 ---
 
