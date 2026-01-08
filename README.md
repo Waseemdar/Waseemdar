@@ -35,8 +35,7 @@ I have collaborated extensively with **central ministries, state departments, pu
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-ahmad-dar-263a12133)  
+## 🌐 Connect With Me  
 📩 **Email:** [waseemagaz13@gmail.com](mailto:waseemagaz13@gmail.com)  
 
 ---
@@ -44,7 +43,7 @@ I have collaborated extensively with **central ministries, state departments, pu
 Passionate about **bridging the gap between data insights and policy action**, I strive to enable **transparent, accountable, and impact-oriented governance** through **data-driven decision-making**.  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseem_agaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waseem-ahmad-dar-263a12133) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseemagaz13@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseem_agaz)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseemagaz13@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
